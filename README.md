@@ -12,7 +12,7 @@
 </p>
 
 
-![Discord Theme Preview](assets/preview.jpg)
+![Discord Theme Preview](assets/asset.png)
 
 ##USAGE
 
@@ -32,4 +32,4 @@
 
 ## 💝 Thanks to
 
-- [Mirage] (https://github.com/skinatro)
+- [Mirage](https://github.com/skinatro)
