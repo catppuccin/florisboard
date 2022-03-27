@@ -14,7 +14,7 @@
 
 ![Discord Theme Preview](assets/asset.png)
 
-##USAGE
+## USAGE
 
 1. Download the file
 2. Open the app
