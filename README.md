@@ -12,7 +12,7 @@
 </p>
 
 
-![Discord Theme Preview](assets/asset.png)
+![Floris Board Theme Preview](assets/asset.png)
 
 ## USAGE
 
@@ -23,7 +23,6 @@
 5. Click on the `+` icon
 6. Import
 7. Select the file
-8. Select the file
 
 ## 🙋 FAQ
 
