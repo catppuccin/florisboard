@@ -6,13 +6,13 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/catppuccin/discord/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/discord?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/discord/issues"><img src="https://img.shields.io/github/issues/catppuccin/discord?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/discord/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/discord?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/floris-board/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/floris-board?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/floris-board/issues"><img src="https://img.shields.io/github/issues/catppuccin/floris-board?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/floris-board/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/floris-board?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 
-![Discord Theme Preview](assets/asset.png)
+![Floris Board Theme Preview](assets/asset.png)
 
 ## USAGE
 
@@ -23,7 +23,6 @@
 5. Click on the `+` icon
 6. Import
 7. Select the file
-8. Select the file
 
 ## 🙋 FAQ
 
