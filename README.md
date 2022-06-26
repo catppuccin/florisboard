@@ -1,3 +1,8 @@
+# Warning
+
+This theme is currently broken right now, I am waiting for the new engine to complete developement
+And the current theme follows catpuccin 1 colorscheme
+
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
