@@ -1,7 +1,4 @@
-# Warning
 
-This theme is currently broken right now, I am waiting for the new engine to complete developement
-And the current theme follows catpuccin 1 colorscheme
 
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
@@ -17,22 +14,27 @@ And the current theme follows catpuccin 1 colorscheme
 </p>
 
 
-![Floris Board Theme Preview](assets/asset.png)
+
 
 ## USAGE
 
 1. Download the file
 2. Open the app
-3. Change to Theme
-4. Under night theme selected theme
-5. Click on the `+` icon
-6. Import
-7. Select the file
+3. Click on Theme
+4. Click on `Manage Installed Themes`
+5. Import
+6. Click on `Select files`
+7. Select the file in the file manager
+8. It will display the theme info and click on `Import`
+9. Select the flavour you want!
 
 ## 🙋 FAQ
 
 - Q: **_"More about the App"_**
 - A: The github for the app is [here](https://github.com/florisboard/florisboard)
+
+-Q: **_"Which flavours does it comes with?"_**
+-A: It comes with all 4 currently available flavours(Latte,Macchiato,Mocha and Frappe) with bordered and borderless versions and it also comes with a special Catppuccin 1.0 theme as well!
 
 ## 💝 Thanks to
 
