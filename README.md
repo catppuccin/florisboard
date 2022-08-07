@@ -20,7 +20,7 @@
 
 ## USAGE
 
-1. Download the file ([Releases](https://github.com/catppuccin/floris-board/releases/newest))
+1. Download the file ([Releases](https://github.com/catppuccin/floris-board/releases/latest))
 2. Open the app
 3. Click on Theme
 4. Click on `Manage Installed Themes`
