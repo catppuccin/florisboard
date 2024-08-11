@@ -1,5 +1,3 @@
-
-
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
@@ -8,53 +6,77 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/catppuccin/floris-board/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/floris-board?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/floris-board/issues"><img src="https://img.shields.io/github/issues/catppuccin/floris-board?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/floris-board/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/floris-board?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/florisboard/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/florisboard?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/florisboard/issues"><img src="https://img.shields.io/github/issues/catppuccin/florisboard?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/florisboard/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/florisboard?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
-<p align="center">
-	<img src="assets/floris.png" alt="Screenshot" width="700">
+<p float="left">
+  <img src="assets/bordered/preview_bordered.webp" alt="Bordered Preview" width=400>
+  <img src="assets/borderless/preview_borderless.webp" alt="Borderless Preview" width=400>
 </p>
 
+## Previews
 
-## USAGE
+<details>
+<summary>🌻 Latte</summary>
+<img src="assets/bordered/latte_bordered.webp" height="500"/>
+<img src="assets/borderless/latte_borderless.webp" height="500"/>
+</details>
+<details>
+<summary>🪴 Frappé</summary>
+<img src="assets/bordered/frappe_bordered.webp" height="500"/>
+<img src="assets/borderless/frappe_borderless.webp" height="500"/>
+</details>
+<details>
+<summary>🌺 Macchiato</summary>
+<img src="assets/bordered/macchiato_bordered.webp" height="500"/>
+<img src="assets/borderless/macchiato_borderless.webp" height="500"/>
+</details>
+<details>
+<summary>🌿 Mocha</summary>
+<img src="assets/bordered/mocha_bordered.webp" height="500"/>
+<img src="assets/borderless/mocha_borderless.webp" height="500"/>
+</details>
 
-1. Download the file ([Releases](https://github.com/catppuccin/floris-board/releases/latest))
-2. Open the app
-3. Click on Theme
-4. Click on `Manage Installed Themes`
-5. Import
-6. Click on `Select files`
-7. Select the file in the file manager
-8. It will display the theme info and click on `Import`
-9. Select the flavour you want!
+## Usage
 
-## 🙋 FAQ
+### Add-ons Store (Recommended)
 
-- **_"More about the App"_**
-	- The github for the app is [here](https://github.com/florisboard/florisboard)
+1. Visit the [FlorisBoard Add-ons Store](https://beta.addons.florisboard.org/).
+2. Search for `Catppuccin`.
+3. Click download and import the extension with the FlorisBoard app.
 
-- **_"Which flavours does it comes with?"_**
-	- It comes with all 4 currently available flavours (Latte,Macchiato,Mocha and Frappe) with bordered and borderless versions and it also comes with a special Catppuccin 1.0 theme as well!
+### Manual
 
-- **_"I want to change the Enter key colour"_**
-	- See Editing Instruction
+1. Download the `.flex` file from [GitHub Releases](https://github.com/catppuccin/florisboard/releases/latest).
+2. Open the FlorisBoard app.
+3. Click `Addons & Extensions`.
+4. Click `Import`.
+5. Select the downloaded `.flex` file.
+6. After verifying that you can see list of Catppuccin themes, click `Import`.
+7. Head back to the main menu, click `Theme`, and select the Catppuccin theme you want to use for both Day and Night mode.
 
-##	Editing the theme
+## Editing the Theme
 
-Go to `Manage Installed Themes` , Click on `Edit` under Catppuccin and then edit your desired colorscheme.
+1. Go to `Addons & Extensions` in FlorisBoard app.
+2. Click `Theme extensions`.
+3. Press `Edit` on Catppuccin.
+4. Edit your desired flavour(s).
 
-To change the enter key colour , set the `Primary Color` key to your desired color and if you want to make it match the background(make it borderless) then change `Key code = [10]` value from `Primary Color` to `Common Surface`
+For example, to change the enter key colour, set the `Primary Color` key to your
+desired color.
+
+If you want to make it match the background (i.e. make it borderless) then
+change `Key code = [10]` value from `Primary Color` to `Common Surface`
 
 ## 💝 Thanks to
 
 - [Mirage](https://github.com/skinatro)
-- [winston](https://github.com/nekowinston) 
+- [winston](https://github.com/nekowinston)
 
 &nbsp;
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 <p align="center">Copyright &copy; 2021-present <a href="https://github.com/catppuccin" target="_blank">Catppuccin Org</a>
 <p align="center"><a href="https://github.com/catppuccin/catppuccin/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a></p>
-
