@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: extractions/setup-just@v3
-      - uses: catppuccin/setup-whiskers@v1.0.0
+      - uses: catppuccin/setup-whiskers@feat/auto-detect
         with:
           whiskers-version: "2.5.1"
 
