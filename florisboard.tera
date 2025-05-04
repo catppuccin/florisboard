@@ -16,6 +16,7 @@ secondary: "lavender"
     "--background": "#{{crust.hex}}",
     "--surface": "#{{base.hex}}",
     "--surface-variant": "#{{surface0.hex}}",
+    "--disabled": "#{{surface0.hex}}",
 
     "--on-background": "#{{subtext1.hex}}",
     "--on-surface": "#{{text.hex}}",
@@ -96,7 +97,7 @@ secondary: "lavender"
   },
   "smartbar-action-key:disabled": {
     "background": "transparent",
-    "foreground": "#12121248"
+    "foreground": "var(--disabled)"
   },
   "smartbar-action-tile": {
     "background": "transparent",
@@ -110,7 +111,7 @@ secondary: "lavender"
   },
   "smartbar-action-tile:disabled": {
     "background": "transparent",
-    "foreground": "#12121248"
+    "foreground": "var(--disabled)"
   },
   "smartbar-actions-overflow-customize-button": {
     "background": "var(--surface)",
