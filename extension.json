@@ -2,7 +2,7 @@
   "$": "ime.extension.theme",
   "meta": {
     "id": "com.catppuccin.florisboard",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Catppuccin",
     "description": "🥀 Soothing pastel theme for FlorisBoard",
     "keywords": [

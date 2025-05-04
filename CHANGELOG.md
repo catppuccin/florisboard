@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/catppuccin/florisboard/compare/v1.0.0...v1.0.1) (2025-05-04)
+
+
+### Bug Fixes
+
+* make sure disabled keys are visible ([#19](https://github.com/catppuccin/florisboard/issues/19)) ([a4945f3](https://github.com/catppuccin/florisboard/commit/a4945f360095d5716e32db6a0d9ef4aab21b8fdc))
+
 ## [1.0.0](https://github.com/catppuccin/florisboard/compare/v0.1.0...v1.0.0) (2025-03-02)
 
 
