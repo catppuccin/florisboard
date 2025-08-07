@@ -149,7 +149,7 @@ secondary: "lavender"
   },
   "smartbar-action-tile-icon": {
     "font-size": "18sp"
-  }
+  },
   "smartbar-action-tile:disabled": {
     "foreground": "var(--on-background-disabled)"
   },
