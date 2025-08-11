@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/catppuccin/florisboard/compare/v1.0.1...v2.0.0) (2025-08-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* support FlorisBoard >=0.5.0 ([#22](https://github.com/catppuccin/florisboard/issues/22))
+
+### Features
+
+* support FlorisBoard &gt;=0.5.0 ([#22](https://github.com/catppuccin/florisboard/issues/22)) ([7cbeb89](https://github.com/catppuccin/florisboard/commit/7cbeb897e27b23693ba97d09b6ba8afccfa2a2cb))
+
 ## [1.0.1](https://github.com/catppuccin/florisboard/compare/v1.0.0...v1.0.1) (2025-05-04)
 
 
