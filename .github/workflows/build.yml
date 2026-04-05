@@ -8,8 +8,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
-      - uses: extractions/setup-just@v3
+      - uses: actions/checkout@v6
+      - uses: extractions/setup-just@v4
       - uses: catppuccin/setup-whiskers@v2
 
       - name: Build
@@ -19,7 +19,7 @@ jobs:
         run: just zip
 
       - name: Upload Archive
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: "catppuccin-snapshot.flex"
           path: catppuccin*.flex
