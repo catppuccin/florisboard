@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/catppuccin/florisboard/compare/v2.0.0...v2.0.1) (2026-04-05)
+
+
+### Bug Fixes
+
+* floating keyboard support ([#30](https://github.com/catppuccin/florisboard/issues/30)) ([38605ae](https://github.com/catppuccin/florisboard/commit/38605aecf2bc6229db7dc41302921cf3b496090d))
+
 ## [2.0.0](https://github.com/catppuccin/florisboard/compare/v1.0.1...v2.0.0) (2025-08-11)
 
 
