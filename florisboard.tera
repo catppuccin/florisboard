@@ -46,6 +46,36 @@ secondary: "lavender"
     "foreground": "var(--on-background)",
     "clip": "no"
   },
+  "window[windowmode=`floating`]": {
+    "shadow-elevation": "8dp",
+    "shape": "rounded-corner(5%, 5%, 5%, 5%)"
+  },
+  "window-move-handle[windowmode=`fixed`]": {
+      "background": "var(--surface)",
+      "foreground": "var(--primary)",
+      "font-size": "24sp",
+      "margin": "16dp 0dp",
+      "padding": "8dp",
+      "shape": "circle()"
+   },
+  "window-resize-handle": {
+    "background": "var(--primary)"
+  },
+  "window-resize-action[windowmode=`fixed`]": {
+    "background": "var(--primary)",
+    "foreground": "var(--on-primary)",
+    "font-size": "24sp",
+    "padding": "8dp",
+    "shape": "circle()"
+  },
+  "window-resize-action[windowmode=`floating`]": {
+    "background": "var(--surface)",
+    "foreground": "var(--primary)",
+    "shape": "circle()"
+  },
+  "floating-dock-to-fixed-indicator": {
+    "background": "var(--primary)"
+  },
 
   "key": {
     "background": "var(--{% if variant == "_borderless" %}background{% else %}surface{% endif %})",
@@ -109,6 +139,10 @@ secondary: "lavender"
   "key-popup-element:focus": {
     "background": "var(--focused-popup-surface)",
     "shape": "var(--shape)"
+  },
+  "key-popup-element[code=-255]": {
+      "font-size": "18sp",
+      "text-max-lines": "1"
   },
   "key-popup-extended-indicator": {
     "font-size": "16sp"
